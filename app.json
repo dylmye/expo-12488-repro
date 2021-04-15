@@ -2,6 +2,7 @@
   "expo": {
     "name": "expo-12488-repro",
     "slug": "expo-12488-repro",
+    "scheme": "beepyboopy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
