@@ -10,6 +10,7 @@ export default function App() {
       clientId: "QTDDA2QX_tQfaA",
       scopes: ["identity"],
       redirectUri: makeRedirectUri({
+        preferLocalhost: true,
         native: "beepyboopy://"
       }),
     },
